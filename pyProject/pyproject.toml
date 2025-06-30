@@ -1,0 +1,5 @@
+[project]
+name = "PySide QtQuick Project"
+
+[tool.pyside6-project]
+files = [".gitignore", "arayuz.py", "bina_ekle_penceresi.py", "binalarim_penceresi.py", "daire_duzenle_penceresi.py", "kayit_penceresi.py", "kullanici_paneli.py", "main.py", "main.qml", "odeme_duzenle_penceresi.py", "odeme_ekrani.py", "ogrenci_ekle_penceresi.py", "veritabani.py"]
